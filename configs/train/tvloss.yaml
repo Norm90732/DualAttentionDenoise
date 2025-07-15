@@ -1,0 +1,14 @@
+#default final train config
+#train/tvloss.yaml
+train: 0.7
+validation: 0.15
+test: 0.15
+batch_size: 64
+epochs: 30
+shuffle: true
+pin_memory: true
+num_workers: 6
+
+loss:
+  _target_: models.losses.TVLoss
+  tv_lambda: 0.1

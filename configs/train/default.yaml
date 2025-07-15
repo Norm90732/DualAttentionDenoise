@@ -1,0 +1,13 @@
+#default final train config
+#train/default.yaml
+train: 0.7
+validation: 0.15
+test: 0.15
+batch_size: 64
+epochs: 30
+shuffle: true
+pin_memory: true
+num_workers: 6
+
+loss:
+  _target_: torch.nn.MSELoss

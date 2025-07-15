@@ -1,0 +1,6 @@
+#logging configuration to start an experiment
+#logger/mlflow.yaml
+experiment: "final_unet_attention_gaussian_0.15"
+tracking_uri: "file:./mlruns"
+save_dir: "./models/best_model"
+log_model: true

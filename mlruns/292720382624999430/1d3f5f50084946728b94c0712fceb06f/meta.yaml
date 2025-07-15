@@ -1,0 +1,14 @@
+artifact_uri: file:///blue/uf-dsi/normansmith/projects/TVAttention-Autoencoder/mlruns/292720382624999430/1d3f5f50084946728b94c0712fceb06f/artifacts
+end_time: 1752096644591
+entry_point_name: ''
+experiment_id: '292720382624999430'
+lifecycle_stage: active
+run_id: 1d3f5f50084946728b94c0712fceb06f
+run_name: unetFinal_gaussian_0.05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752096642155
+status: 4
+tags: []
+user_id: normansmith

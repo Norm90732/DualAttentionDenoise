@@ -1,0 +1,6 @@
+#Config for Unet Basic architecture
+#model/unet.yaml
+
+_target_: models.Unet
+in_channels: 1 #change to 3 if RGB
+out_channels: 1 #change to 3 if RGB

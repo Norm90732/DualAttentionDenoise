@@ -1,0 +1,12 @@
+name: optuna
+best_params:
+  optimizer.lr: 0.0009000000000000001
+  optimizer.weight_decay: 4.0e-05
+  train.batch_size: 64
+  train.epochs: 5
+  scheduler.factor: 0.30000000000000004
+  scheduler.patience: 7
+  scheduler.min_lr: 1.0e-05
+  scheduler.eps: 1.0e-07
+  model.sumOrElement: false
+best_value: 0.9214720129966736

@@ -1,0 +1,14 @@
+artifact_uri: file:///blue/uf-dsi/normansmith/projects/TVAttention-Autoencoder/mlruns/137257701916821020/dce85ad53ce1436c9f52f752cf67be67/artifacts
+end_time: 1751957585009
+entry_point_name: ''
+experiment_id: '137257701916821020'
+lifecycle_stage: active
+run_id: dce85ad53ce1436c9f52f752cf67be67
+run_name: hyperParameterOptunaSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751956857074
+status: 3
+tags: []
+user_id: normansmith

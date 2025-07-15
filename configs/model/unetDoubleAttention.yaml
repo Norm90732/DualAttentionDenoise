@@ -1,0 +1,5 @@
+#model/unetDoubleAttention.yaml
+_target_: models.DualAttentionUnet
+in_channels: 1  # or 3 for RGB
+out_channels: 1  # or 3 for RGB
+sumOrElement: false  # Start with multiplication

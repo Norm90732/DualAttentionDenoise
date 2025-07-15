@@ -1,0 +1,6 @@
+artifact_location: file:///blue/uf-dsi/normansmith/projects/TVAttention-Autoencoder/mlruns/125855966355359743
+creation_time: 1751750035284
+experiment_id: '125855966355359743'
+last_update_time: 1751750035284
+lifecycle_stage: active
+name: unet_basic_gaussian_0.05
